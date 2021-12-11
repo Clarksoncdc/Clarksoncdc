@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Clarksoncdc
-- 👀 I’m enjoy spending time outdoors at beaches, lakes, and mountains
+- 👀 I’m excited to learn and grow in the IT world
 - 🌱 I’m working towards my B.S. Cyber Security
-- 💞 I’m looking to learn as much as I can about this environment
 - If wanting to communicate with me further, please leave me your information and I will reach out to you
 
 <!---
